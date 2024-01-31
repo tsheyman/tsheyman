@@ -1,8 +1,9 @@
-👋 Hi, I’m @tsheyman
-👑 Mastery of SQL
-📊 Proficient with Data Warehouses (Snowflake, BigQuery) and Data Visualization Tools (Tableau, Looker, Domo, Metabase)
-👨🏻‍💻 Proficient in Python (Data analysis + visualization, automation, APIs, webscraping)
-📱 Have dabbled with Swift/SwiftUI
+- 👋 Hi, I’m @tsheyman
+- I ❤️ data
+- 👑 Mastery of SQL
+- 📊 Proficient with Data Warehouses (Snowflake, BigQuery) and Data Visualization Tools (Tableau, Looker, Domo, Metabase)
+- 👨🏻‍💻 Proficient in Python (Data analysis + visualization, automation, APIs, webscraping)
+- 📱 I've dabbled with Swift/SwiftUI
 
 
 <!---
