@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @tsheyman
-- 👀 I’m very proficient in SQL
-- 🌱 I’m currently learning Swift/SwiftUI. I also have minimal experience with Python
-- 💞️ I’m looking to collaborate on creating my ideas for iOS applications
+👋 Hi, I’m @tsheyman
+👑 Mastery of SQL
+📊 Proficient with Data Warehouses (Snowflake, BigQuery) and Data Visualization Tools (Tableau, Looker, Domo, Metabase)
+👨🏻‍💻 Proficient in Python (Data analysis + visualization, automation, APIs, webscraping)
+📱 Have dabbled with Swift/SwiftUI
+
 
 <!---
 tsheyman/tsheyman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
